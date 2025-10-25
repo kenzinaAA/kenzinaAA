@@ -1,16 +1,17 @@
-## Hi there 👋
+### Welcome to my GitHub page! 👋
 
 <!--
 **kenzinaAA/kenzinaAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## О себе
+Я - QA Еngineer на Java. Занимаючь тестированием веб-приложений. Люблю изучать новое и применять это в своей работе.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack:
+
+
+## Experience:
+
+- Automation testing (Backend and UI) - 70% time
+- Manual testing - 30 % time
+
+## My Projects
