@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="67.7334mm" height="67.7334mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2025.3 2025.3"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil6 {fill:none}
+    .fil1 {fill:#0ACF83}
+    .fil5 {fill:#1ABCFE}
+    .fil0 {fill:#242938}
+    .fil2 {fill:#A259FF}
+    .fil3 {fill:#F24E1E}
+    .fil4 {fill:#FF7262}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M482.59 1803.78l1055.05 0 0 -1582.26 -1055.05 0 0 1582.26z"/>
+   </clipPath>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M474.68 0l1075.94 0c262.11,0 474.68,212.57 474.68,474.68l0 1075.94c0,262.11 -212.57,474.68 -474.68,474.68l-1075.94 0c-262.11,-0 -474.68,-212.57 -474.68,-474.68l-0 -1075.94c0,-262.11 212.57,-474.68 474.68,-474.68z"/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <path class="fil1" d="M746.41 1803.78c145.57,0 263.71,-118.14 263.71,-263.71l0 -263.72 -263.71 0c-145.57,0 -263.71,118.15 -263.71,263.72 0,145.57 118.15,263.71 263.71,263.71z"/>
+    <path class="fil2" d="M482.7 1012.65c0,-145.57 118.15,-263.71 263.71,-263.71l263.71 0 0 527.42 -263.71 0c-145.57,0 -263.71,-118.14 -263.71,-263.71z"/>
+    <path class="fil3" d="M482.7 485.23c0,-145.57 118.15,-263.71 263.71,-263.71l263.71 0 0 527.42 -263.71 0c-145.57,0 -263.71,-118.15 -263.71,-263.71z"/>
+    <path class="fil4" d="M1010.12 221.52l263.71 0c145.57,0 263.72,118.14 263.72,263.71 0,145.57 -118.15,263.71 -263.72,263.71l-263.71 0 0 -527.42z"/>
+    <path class="fil5" d="M1537.54 1012.65c0,145.57 -118.15,263.71 -263.72,263.71 -145.57,0 -263.71,-118.14 -263.71,-263.71 0,-145.57 118.14,-263.71 263.71,-263.71 145.57,0 263.72,118.14 263.72,263.71z"/>
+   </g>
+  </g>
+  <polygon class="fil6" points="482.59,1803.78 1537.64,1803.78 1537.64,221.52 482.59,221.52 "/>
+ </g>
+</svg>
