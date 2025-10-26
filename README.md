@@ -28,7 +28,7 @@
 [<img alt="PostgreSQL" height="50" src="https://github.com/kenzinaAA/kenzinaAA/blob/main/logo/postgreSQL.svg" width="50"/>](https://www.postgresql.org/)
 
 [<img alt="Postman" height="50" src="https://github.com/kenzinaAA/kenzinaAA/blob/main/logo/Postman.png" width="50"/>](https://www.postman.com/) 
-[<img alt="SoapUI" height="50" src="https://www.soapui.org/downloads/soapui/" width="50"/>](https://www.selenium.dev/)
+[<img alt="SoapUI" height="50" src="https://github.com/kenzinaAA/kenzinaAA/blob/main/logo/soapUI.png" width="50"/>](https://www.selenium.dev/)
 [<img alt="REST Assured" height="50" src="https://github.com/kenzinaAA/kenzinaAA/blob/main/logo/rest_assured.svg" width="50"/>](https://rest-assured.io/)
 
 [<img alt="TeamCity" height="50" src="https://github.com/kenzinaAA/kenzinaAA/blob/main/logo/TM.png" width="50"/>](https://www.jetbrains.com/ru-ru/teamcity/)
