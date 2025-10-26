@@ -46,4 +46,5 @@
 
 ## My Projects
 ![Дипломный проект по UI тестированию интернет-магазина Читай-город](https://github.com/kenzinaAA/qa_guru_diploma)
+
 ![Дипломный проект по API Automation Framework для reqres.in](https://github.com/kenzinaAA/qa_guru_diploma_api)
