@@ -1,8 +1,5 @@
 ### Welcome to my GitHub page! 👋
 
-<!--
-**kenzinaAA/kenzinaAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## О себе
 Я - QA Еngineer на Java. Занимаючь тестированием веб-приложений. Люблю изучать новое и применять это в своей работе.
 
@@ -42,8 +39,8 @@
 [<img alt="TestOps" height="50" src="https://github.com/kenzinaAA/kenzinaAA/blob/main/logo/allure_testops.svg" width="50"/>](https://qatools.ru/)
 [<img alt="Browserstack" height="50" src="https://github.com/kenzinaAA/kenzinaAA/blob/main/logo/browserstack.svg" width="50"/>](https://www.jenkins.io/)
 [<img alt="Figma" height="50" src="https://github.com/kenzinaAA/kenzinaAA/blob/main/logo/figma.svg" width="50"/>](https://www.figma.com/)
-## Experience:
 
+## Experience:
 - Automation testing (Backend and UI) - 70% time
 - Manual testing - 30 % time
 
