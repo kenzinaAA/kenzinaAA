@@ -48,3 +48,5 @@
 ![Дипломный проект по UI тестированию интернет-магазина Читай-город](https://github.com/kenzinaAA/qa_guru_diploma)
 
 ![Дипломный проект по API Automation Framework для reqres.in](https://github.com/kenzinaAA/qa_guru_diploma_api)
+
+![Дипломный проект по автоматизации mobile тестов для приложения Wikipedia](https://github.com/kenzinaAA/mobile-tests)
